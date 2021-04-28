@@ -1,2 +1,5 @@
 # Escribe tu codigo aqui abajo
-Print("Hola mundo mi nombre es Clarisa y tengo 23 años, estudio ing mecannca y electrica  en la UNIMET!") 
+nombre = "Clarisa Oquendo"
+Carrera = "Ing Mecanica y Electrica"
+age = "23"
+Print("Hola mundo mi nombre es {nombre} y tengo {age} años, estudio {Carrera} en la UNIMET!") 
